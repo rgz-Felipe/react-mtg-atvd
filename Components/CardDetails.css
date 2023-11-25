@@ -1,0 +1,18 @@
+.card-detail-container {
+    text-align: center;
+  }
+  
+  .card-detail {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .card-detail img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .loading {
+    color: #007bff;
+  }
+  

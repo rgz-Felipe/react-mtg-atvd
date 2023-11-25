@@ -1,0 +1,23 @@
+.card-list-container {
+    text-align: center;
+  }
+  
+  .card-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .card-list li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  .card-list a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .card-list a:hover {
+    text-decoration: underline;
+  }
+  
